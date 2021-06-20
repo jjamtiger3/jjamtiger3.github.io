@@ -1,6 +1,7 @@
 ---
-title: "블로그 포스팅 테스트"
-excerpt: "md 파일에 작성. VSCode사용!!!"
+layout: post
+title: 블로그 포스팅 테스트
+excerpt: md 파일에 작성. VSCode사용!!!
 
 categories: 
  - Blog
