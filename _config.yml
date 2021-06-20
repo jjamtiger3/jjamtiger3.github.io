@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/title-logo.png"
 masthead_title           : "jjamtiger3' blog" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "jjamtiger3"
-  avatar           : "/assets/images/logo.png"
+  avatar           : "/assets/images/title-logo.png"
   bio              : "그냥 평범한 오덕. 개발잘하고 싶은 인간 :D "
   location         : "서울시 강남구"
   email            :
