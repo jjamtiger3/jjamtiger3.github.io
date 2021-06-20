@@ -3,17 +3,11 @@ layout: post
 title: 블로그 포스팅 테스트
 excerpt: md 파일에 작성. VSCode사용!!!
 
-categories: 
- - Blog
-tags:
- - [Blog, jjamtiger3, github, git, Git, Github]
-
-toc: true
-toc_sticky: true
-
 date: 2021-06-20
 last_modified_at: 2021-06-20
 ---
+
+# Welcome
 
 ## 개요
 이글은 Jekyll을 연습하기 위한 임시 포스트
