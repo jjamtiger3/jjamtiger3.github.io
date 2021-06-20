@@ -118,7 +118,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://gitbub.com/jjamtiger3
+      url: https://github.com/jjamtiger3
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
