@@ -19,13 +19,13 @@ last_modified_at: 2021-06-20
 한 입력 컴포넌트에서 모두 지원되도록 구현할 계획
 
 # 1. 입력 형식
-![input_result_0](/assets/images/input_result0.png)
+![input_result_0](/assets/images/20210621/input_result0.png)
 위 그림과 같이 value엔 실제 값을 넣고 mask엔 value를 출력할 형식을 지정한다.
 
 # 2. 출력 결과
-![input_result_1](/assets/images/input_result1.png)
+![input_result_1](/assets/images/20210621/input_result1.png)
 위 그림과 같이 입력된 값이 정상적으로 출력됨을 확인할 수 있음.
 
 # 3. 실제 값 출력 결과
-![input_result_2](/assets/images/input_result2.png)
+![input_result_2](/assets/images/20210621/input_result2.png)
 위 그림과 같이 실제값을 확인할 수 있음
