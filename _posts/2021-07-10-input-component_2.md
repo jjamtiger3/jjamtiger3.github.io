@@ -18,23 +18,23 @@ last_modified_at: 2021-06-20
 수정하였다.
 
 #
-![input_result_0](/assets/images/20210710/20210710_1.png)
+![](/assets/images/20210710/20210710_1)
 위 그림과 같이 입력시 마스크가 출력된다.
 
 #
-![input_result_1](/assets/images/20210710/20210710_2.png)
+![](/assets/images/20210710/20210710_2)
 아래와 같이 실제 마스크보다 범위가 긴 문자열을 입력하여.
 
 #
-![input_result_2](/assets/images/20210710/20210710_3.png)
+![](/assets/images/20210710/20210710_3)
 복사 붙여넣기 (CTRL + C / CTRL + V)
 
 #
-![input_result_3](/assets/images/20210710/20210710_4.png)
+![](/assets/images/20210710/20210710_4)
 코드를 수정하자. maxlength만큼 자르도록 수정~!!(replace로 썻다가 왜 안되지??라며 10분가까이 헤멘 바보....)
 
 #
-![input_result_4](/assets/images/20210710/20210710_5.png)
+![](/assets/images/20210710/20210710_5)
 정상출력된다
 
 # 다음에 수정할 오류? 라기보단 개선사항
@@ -45,8 +45,8 @@ last_modified_at: 2021-06-20
 LLLL-LLLL-LLLL-LLLL으로 쓸경우 문자열이 저 형태대로 나오도록
 0(10)으로 쓸경우 숫자10개 등 숫자 문자를 구분하게 할 예정
 
-![input_result_5](/assets/images/20210710/20210710_6.png)
+![](/assets/images/20210710/20210710_6)
 잘들어간다...
 
-![input_result_6](/assets/images/20210710/20210710_7.png)
+![](/assets/images/20210710/20210710_7)
 심지어 값도 잘나온다
